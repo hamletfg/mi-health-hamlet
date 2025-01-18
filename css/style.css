@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #f4f4f4;
+  padding: 10px 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: 333;
+  margin-left: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
