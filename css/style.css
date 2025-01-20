@@ -27,3 +27,27 @@ nav a {
   margin-bottom: 15px;
   font-family: Arial, sans-serif; 
 }
+
+.intro p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.intro a {
+  display: inline-block;
+  background-color: #6ab04c;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s ease;
+}
+
+.intro a:hover {
+  background-color: #58a538;
+}
